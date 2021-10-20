@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ethers": "^5.5.0",
+    "web3": "^1.6.0"
+  },
+  "name": "save_contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "hardhat": "^2.6.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
